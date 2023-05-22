@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-import IconEmail from "@/components/general/IconEmail";
-import IconPassword from "@/components/general/IconPassword";
+import IconEmail from "@/components/IconEmail";
+import IconPassword from "@/components/IconPassword";
 
 export const metadata = {
   title: "Sign in | Asociación KP",
